@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-11-25T14:00:00+03:00",
+  "orders": [
+    {
+      "id": "WSL-2026-1057",
+      "date": "2026-11-25T13:20:00+03:00",
+      "store_name": "ستار برجر",
+      "store_logo": "assets/images/restaurants/star_burger.jpg",
+      "subtotal": 5000.0,
+      "delivery_fee": 400.0,
+      "total": 5400.0,
+      "currency": "YR",
+      "status": "in_transit",
+      "status_label_ar": "في الطريق",
+      "estimated_delivery": "2026-11-25T14:15:00+03:00",
+      "delivery_address": "شارع بغداد",
+      "support_phone": "+967774744855",
+      "courier_name": "عدنان العبرات",
+      "courier_phone": "+967774744855",
+      "items": [
+        { "name": "برجر لحم طبقتين", "quantity": 2, "unit_price": 1800.0, "image": "assets/images/foods/double_beef_burger.jpg" },
+        { "name": "زنجر طبقة", "quantity": 1, "unit_price": 1200.0, "image": "assets/images/foods/zinger_burger.jpg" },
+        { "name": "مشروب ون سي", "quantity": 2, "unit_price": 100.0, "image": "assets/images/foods/one_c_soda.jpg" }
+      ],
+      "timeline": [
+        { "stage": "received", "label_ar": "تم استلام الطلب", "timestamp": "2026-11-25T13:20:00+03:00", "is_completed": true },
+        { "stage": "preparing", "label_ar": "قيد التجهيز", "timestamp": "2026-11-25T13:24:00+03:00", "is_completed": true },
+        { "stage": "in_transit", "label_ar": "في الطريق إليك", "timestamp": "2026-11-25T13:50:00+03:00", "is_completed": true },
+        { "stage": "delivered", "label_ar": "تم التوصيل", "timestamp": null, "is_completed": false }
+      ]
+    },
+    {
+      "id": "WSL-2026-1056",
+      "date": "2026-11-25T12:40:00+03:00",
+      "store_name": "حراز كافي",
+      "store_logo": "assets/images/restaurants/haraaz_coffee.jpg",
+      "subtotal": 2300.0,
+      "delivery_fee": 700.0,
+      "total": 3000.0,
+      "currency": "YR",
+      "status": "preparing",
+      "status_label_ar": "قيد التجهيز",
+      "estimated_delivery": "2026-11-25T14:25:00+03:00",
+      "delivery_address": "شارع بغداد",
+      "support_phone": "+967774744855",
+      "courier_name": null,
+      "courier_phone": null,
+      "items": [
+        { "name": "قهوة باردة", "quantity": 1, "unit_price": 1500.0, "image": "assets/images/foods/iced_coffee.jpg" },
+        { "name": "كنافة", "quantity": 1, "unit_price": 800.0, "image": "assets/images/foods/kunafa.jpg" }
+      ],
+      "timeline": [
+        { "stage": "received", "label_ar": "تم استلام الطلب", "timestamp": "2026-11-25T12:40:00+03:00", "is_completed": true },
+        { "stage": "preparing", "label_ar": "قيد التجهيز", "timestamp": "2026-11-25T12:46:00+03:00", "is_completed": true },
+        { "stage": "in_transit", "label_ar": "في الطريق إليك", "timestamp": null, "is_completed": false },
+        { "stage": "delivered", "label_ar": "تم التوصيل", "timestamp": null, "is_completed": false }
+      ]
+    },
+    {
+      "id": "WSL-2026-1053",
+      "date": "2026-11-25T11:55:00+03:00",
+      "store_name": "وقت العصير",
+      "store_logo": "assets/images/restaurants/juice_time.jpg",
+      "subtotal": 2000.0,
+      "delivery_fee": 500.0,
+      "total": 2500.0,
+      "currency": "YR",
+      "status": "in_transit",
+      "status_label_ar": "في الطريق",
+      "estimated_delivery": "2026-11-25T14:10:00+03:00",
+      "delivery_address": "شارع بغداد",
+      "support_phone": "+967774744855",
+      "courier_name": "عدنان العبرات",
+      "courier_phone": "+967774744855",
+      "items": [
+        { "name": "بروست", "quantity": 1, "unit_price": 1400.0, "image": "assets/images/foods/broast.jpg" },
+        { "name": "عصير مانجو", "quantity": 1, "unit_price": 600.0, "image": "assets/images/foods/mango_juice.jpg" }
+      ],
+      "timeline": [
+        { "stage": "received", "label_ar": "تم استلام الطلب", "timestamp": "2026-11-25T11:55:00+03:00", "is_completed": true },
+        { "stage": "preparing", "label_ar": "قيد التجهيز", "timestamp": "2026-11-25T11:58:00+03:00", "is_completed": true },
+        { "stage": "in_transit", "label_ar": "في الطريق إليك", "timestamp": "2026-11-25T13:33:00+03:00", "is_completed": true },
+        { "stage": "delivered", "label_ar": "تم التوصيل", "timestamp": null, "is_completed": false }
+      ]
+    },
+    {
+      "id": "WSL-2026-1049",
+      "date": "2026-11-24T20:10:00+03:00",
+      "store_name": "مطعم القلعة",
+      "store_logo": "assets/images/restaurants/al_qalaa.jpg",
+      "subtotal": 8100.0,
+      "delivery_fee": 700.0,
+      "total": 8800.0,
+      "currency": "YR",
+      "status": "delivered",
+      "status_label_ar": "تم التوصيل",
+      "estimated_delivery": "2026-11-24T21:00:00+03:00",
+      "delivery_address": "شارع بغداد",
+      "support_phone": "+967774744855",
+      "courier_name": "عدنان العبرات",
+      "courier_phone": "+967774744855",
+      "items": [
+        { "name": "كبسة دجاج", "quantity": 2, "unit_price": 2800.0, "image": "assets/images/foods/kabsa.jpg" },
+        { "name": "دجاج على الفحم", "quantity": 1, "unit_price": 2200.0, "image": "assets/images/foods/charcoal_chicken.jpg" },
+        { "name": "مشروب ون سي", "quantity": 3, "unit_price": 100.0, "image": "assets/images/foods/one_c_soda.jpg" }
+      ],
+      "timeline": [
+        { "stage": "received", "label_ar": "تم استلام الطلب", "timestamp": "2026-11-24T20:10:00+03:00", "is_completed": true },
+        { "stage": "preparing", "label_ar": "قيد التجهيز", "timestamp": "2026-11-24T20:13:00+03:00", "is_completed": true },
+        { "stage": "in_transit", "label_ar": "في الطريق إليك", "timestamp": "2026-11-24T20:40:00+03:00", "is_completed": true },
+        { "stage": "delivered", "label_ar": "تم التوصيل", "timestamp": "2026-11-24T20:57:00+03:00", "is_completed": true }
+      ]
+    },
+    {
+      "id": "WSL-2026-1042",
+      "date": "2026-11-22T19:05:00+03:00",
+      "store_name": "سكاي بوكس",
+      "store_logo": "assets/images/restaurants/sky_box.jpg",
+      "subtotal": 1600.0,
+      "delivery_fee": 700.0,
+      "total": 2300.0,
+      "currency": "YR",
+      "status": "cancelled",
+      "status_label_ar": "ملغي",
+      "estimated_delivery": null,
+      "delivery_address": "شارع بغداد",
+      "support_phone": "+967774744855",
+      "courier_name": null,
+      "courier_phone": null,
+      "cancellation_reason": "اعتذر المطعم عن تجهيز الطلب بسبب نفاد أحد الأصناف. سيُعاد المبلغ إلى وسيلة الدفع خلال يومين عمل.",
+      "items": [
+        { "name": "بيتزا خضار", "quantity": 1, "unit_price": 1400.0, "image": "assets/images/foods/veggie_pizza.jpg" },
+        { "name": "مشروب ون سي", "quantity": 2, "unit_price": 100.0, "image": "assets/images/foods/one_c_soda.jpg" }
+      ],
+      "timeline": [
+        { "stage": "received", "label_ar": "تم استلام الطلب", "timestamp": "2026-11-22T19:05:00+03:00", "is_completed": true },
+        { "stage": "preparing", "label_ar": "قيد التجهيز", "timestamp": "2026-11-22T19:09:00+03:00", "is_completed": true },
+        { "stage": "cancelled", "label_ar": "تم إلغاء الطلب", "timestamp": "2026-11-22T19:21:00+03:00", "is_completed": true }
+      ]
+    }
+    
+  ]
+}
